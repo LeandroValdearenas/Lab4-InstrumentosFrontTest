@@ -1,0 +1,54 @@
+.imagen {
+    width: 200px;
+    height: min-content;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.img-detalle {
+    width: 30rem;
+}
+.img-60 {
+    width: 70%;
+}
+.img-40 {
+    width: 30%;
+}
+.auto-width {
+    width: auto;
+}
+.img-altura {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+}
+.card-title, .card-text {
+    text-align: left;
+}
+.row-max {
+    height: 500px;
+}
+.cantidadVendido {
+    font-size: small;
+}
+.precio {
+    font-weight: bold;
+    font-size: xx-large;
+}
+.precioDetalle {
+    font-weight: lighter;
+    font-size: 30pt;
+}
+.costo {
+    color: rgb(255, 123, 0);
+}
+.costoGratis {
+    color: rgb(25, 199, 68);
+}
+.carousel {
+    width: 800px;
+}
+.full-screen {
+    width: 100svw;
+    height: 100svh;
+    padding: 16px;
+}
